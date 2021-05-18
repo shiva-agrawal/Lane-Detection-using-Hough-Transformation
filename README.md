@@ -15,5 +15,3 @@ Following is the block diagram along with the output images at every stage of th
 * Lane Detection using Hough Transformation.py - Algorithm in python with proper comments
 * lane_detection_process_flow_diagram.JPG - the block diagram which is ahown above
 
-## References:
-* [Hough Tranformation - Literature](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html)
